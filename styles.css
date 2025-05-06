@@ -1,3 +1,16 @@
+ main
+body {
+    background-color:darkgreen;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+}
+.mark {
+    color:aqua
+
 .container {
 	width: 100%;
 	display: flex;
@@ -58,4 +71,5 @@ button {
 
 button:hover {
 	background-color: #e69500;
+  main
 }
