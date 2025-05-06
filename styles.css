@@ -1,13 +1,12 @@
-.container{
-	width:100%;
-	display:flex;
-
+body {
+    background-color:darkgreen;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
 }
-.box{
-	width:25%;
-	display:inline-block;
-}
-body{
-	background-color:#728C00;
-	font-size: 20px;
+.mark {
+    color:aqua
 }
