@@ -1,1 +1,13 @@
+.container{
+	width:100%;
+	display:flex;
 
+}
+.box{
+	width:25%;
+	display:inline-block;
+}
+body{
+	background-color:#728C00;
+	font-size: 20px;
+}
