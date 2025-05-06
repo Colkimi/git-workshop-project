@@ -9,7 +9,8 @@ body {
     color: aqua;
 }
 .mark {
-    color:aqua
+	color: aqua;
+}
 
 .container {
 	width: 100%;
@@ -71,5 +72,4 @@ button {
 
 button:hover {
 	background-color: #e69500;
-  main
 }
